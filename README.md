@@ -5,4 +5,6 @@ Welcome to the KSU Research 3D Printing Github! Here we have profiles for specif
 
 If there is a , before a number i.e. ,8mm nozzle, that means .8mm for file reading reasons. If there are no numbers in the name of a profile file, the default is for .4mm nozzle, which most printers will have on it already. 
 
+You will also need the latest version of Cura. At this time it will be 4.13.1 and above to use these profiles.
+
 Feel free to add any profiles by submitting a pull request!
